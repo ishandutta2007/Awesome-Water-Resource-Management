@@ -2,7 +2,7 @@
 
 Markdown
 Copy
-# Top Water Resource Management Platforms Ecosystem
+## Top Water Resource Management Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Water Data Management, Utility Operations, Hydraulic Modeling, AMI/SCADA, Leak Detection, Compliance & Hydrologic Monitoring*
 **Last updated: August 2026**
